@@ -17,8 +17,8 @@ namespace Questao2.Services
         {
             var teamsAndYears = new (string team, int year)[]
             {
-                ("Galatasaray", 2015),
-                ("Atletico Madrid", 2015)
+                ("Paris Saint-Germain", 2013),
+                ("Chelsea", 2014)
             };
 
             foreach (var (team, year) in teamsAndYears)
